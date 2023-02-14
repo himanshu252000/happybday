@@ -1,0 +1,34 @@
+h1{
+    font-size: 3em ;
+    text-align: center;
+    font-style: serif;
+    background-color: rgb(243, 136, 49) ;
+    border-radius:100px;
+}
+p{
+    font-size: 2em;
+    
+}
+h2{
+    font-size: 2em;
+    font-style: serif;
+    text-align: center;
+    background-color: lightblue ;
+    border-radius:100px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h4{
+    font-size: 2em;
+    text-align: center;
+    font-style: serif;
+    background-color: rgb(243, 136, 49) ;
+    border-radius:20px;
+
+}
